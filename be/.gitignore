@@ -35,5 +35,3 @@ out/
 
 ### VS Code ###
 .vscode/
-/devdb.mv.db
-/devdb.trace.db
